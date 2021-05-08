@@ -1,2 +1,2 @@
-My name is Archana Singh. I am too lazy to write a README. My apologies! 
-Help yourselves to some good content below.
+Hello fellow Geeks.!
+I'm a Data Scientist based in India, looking to solve real world problems.
